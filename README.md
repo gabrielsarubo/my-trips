@@ -1,8 +1,8 @@
 
-![React Avançado](https://raw.githubusercontent.com/React-Avancado/boilerplate/master/public/img/logo-gh.svg)
+# My Trips
 
-This is a [Next.js](https://nextjs.org/) boilerplate to be used in a course called [React Avançado](https://reactavancado.com.br/).
-![ci](https://github.com/React-Avancado/boilerplate/workflows/ci/badge.svg)
+> A simple project to show my favorite places in the world
+
 ## What is inside?
 
 This project uses lot of stuff as:
