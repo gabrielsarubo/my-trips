@@ -5,6 +5,8 @@
 
 ## What is inside?
 
+This project was bootstraped using [this boilerplate](https://github.com/React-Avancado/boilerplate) by Willian Justen.
+
 This project uses lot of stuff as:
 
 - [TypeScript](https://www.typescriptlang.org/)
